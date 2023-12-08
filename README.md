@@ -1,6 +1,6 @@
 # TODO
 - [ ] pick a colors for theme
-    - color ideas: #0037FF, #1762FF
+    - color ideas: gray and dark blue
 - [ ] add background video
     - [Optimizing video backgrounds in CSS and JavaScript - LogRocket Blog](https://blog.logrocket.com/optimizing-video-backgrounds-css-javascript/)
 - [ ] replace photos, include before/after pics
