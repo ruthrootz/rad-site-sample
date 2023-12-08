@@ -5,6 +5,7 @@
     - [Optimizing video backgrounds in CSS and JavaScript - LogRocket Blog](https://blog.logrocket.com/optimizing-video-backgrounds-css-javascript/)
 - [ ] replace photos, include before/after pics
 - [ ] get request quote form working
+    - https://developers.google.com/gmail/api/quickstart/js
 - [ ] add phone call button
 - [ ] include list of reviews
 - [ ] deploy to Netlify
