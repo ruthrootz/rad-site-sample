@@ -1,4 +1,22 @@
-# [Start Bootstrap - Agency](https://startbootstrap.com/theme/agency)
+# TODO
+- [ ] pick a colors for theme
+    - color ideas: #0037FF, #1762FF
+- [ ] add background video
+    - [Optimizing video backgrounds in CSS and JavaScript - LogRocket Blog](https://blog.logrocket.com/optimizing-video-backgrounds-css-javascript/)
+- [ ] replace photos, include before/after pics
+- [ ] get request quote form working
+- [ ] add phone call button
+- [ ] include list of reviews
+- [ ] deploy to Netlify
+- [ ] attach to domain: https://mattmilici.medium.com/connect-a-custom-godaddy-domain-to-your-netlify-site-a48aa18191d7
+- inspiration: https://perfectpowerwash.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=northeast-ohio
+- splash screen / background ideas
+    - https://codepen.io/jaronwhite/pen/zrmozE
+    - https://codepen.io/abehjat/pen/oXMENv
+    - https://codepen.io/hiteshsahu/pen/MOgzej
+- scrolling: [Fading In Card Layout for Title and Content Articles on Scroll](https://codemyui.com/fading-in-card-layout-for-title-and-content-articles-on-scroll/)
+
+
 
 [Agency](https://startbootstrap.com/theme/agency) is a one page, agency portfolio theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
 
